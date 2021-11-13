@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7678b1b9-3df4-4331-9f2f-ea2157273ba2" name="alwaysdata">
+        <fileTransfer rootFolder="/home/djin66" accessType="SFTP" host="ssh-djin66.alwaysdata.net" port="22" sshConfigId="0d373417-5760-4f93-bbcb-6eb119c7b9b4" sshConfig="djin66@ssh-djin66.alwaysdata.net:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
